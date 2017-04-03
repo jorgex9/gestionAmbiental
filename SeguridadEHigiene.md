@@ -36,7 +36,8 @@ Heinrich expresaba que los analisis de accidentes demuestran que por cada uno de
 
 De la informacion que se disponia, referida a la frecuencia de accidentes potenciales a producir lesiones, de un grupo de 330 accidentes de la misma naturaleza, 300 no ocasionan lesiones, 29 caunsan lesiones leves y 1 origina una lesion grave o con perdida de tiempo.
 
-![](http://http://2.bp.blogspot.com/-1KKfcb7wFzk/U20LevS2MUI/AAAAAAAAAAw/9zULqMXSeMs/s1600/Capture.JPG)
+![](http://2.bp.blogspot.com/-1KKfcb7wFzk/U20LevS2MUI/AAAAAAAAAAw/9zULqMXSeMs/s1600/Capture.JPG)
+
 
 
 
