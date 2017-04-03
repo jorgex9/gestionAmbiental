@@ -32,6 +32,27 @@ Tiene como finalidad "garantizar que las generaciones venideras dispongas de las
 
 4.	**Educacion:** La ingestigavion, asistencia técnica y la informacion ambiental conforman la cuarta categoria.
 
+## Instrumentos especificos de la politica para la aplicación de la GA
+
+Los instrumentos de la pilitica ofrecen un conjunto de opciones para responder a la solución de los problemas ambientales. Un plan puede estar conformado por solo un instrumento como respuesta unica a un problema ambiental. Pero en la realidad, todos los instrumentos deberian de estar acompañados de otros complementarios para lograr la ejecucion efectiva.
+
+Entre los instrumentos a nivel polita se encuentran:
+- Planeacion ambiental
+- Ordenamiento del territorio (fundamentalemente la planificacion del uso del suelo y otros recursos naturales)
+- Regulación de los asentamientos humanos
+- Normas técnicas (establecen los limites permisibles)
+- Evaluacion del Impacto Ambiental (Procedimiento previo a la realizacion de una obra o actividad para determinar sus efectos en el ambiente que permite autorizar, denegar o condicionar su realización)
+- Sistemas nacionales de areas protegidas
+- Prevencion de catastrofes ambientales
+- Educación y formación ambiental
+- Investigación científica y tecnológica
+- Vigilancia y evaluacion ambienta
+- Sistemas de información
+
+
+
+
+
 
 
 
