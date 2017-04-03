@@ -21,16 +21,16 @@ Tiene como finalidad "garantizar que las generaciones venideras dispongas de las
 
 ## Instrumentos de Gestion Ambiental
 
-1.	*Instrumentos de Regulacion directa:* denominados de comando y control. Tratan de hacer cumplir las leyes llevadas al campo de conducta ambiental
-2.	*Instrumentos administrativos:* se trata de otorgamientos de licencias permisos y demas modos de adquirir el derecho a usar recursos naturales previstos en las diferentes legislaciones.
-3.	*Insturmentos econónmicos* estan destinados a hacer que las fuerzas del mercado sean las principales propiciadoras al cumplimento de las metas ambientales de la sociedad
-	- cargas de contaminacion
-	- Creacion de mercado (compra de derecho para contaminar)
-	- Subsidios (para disminuir contaminacion)
-	- Sistema de deposito-devolucion
-4.	*Educacion:* las investigaciones, asistencia tencnicas  y la informacion ambiental
+1.	**Instrumentos de Regulacion directa:** denominados de comando y control. Tratan de hacer cumplir las leyes llevadas al campo de conducta ambiental. Las normas de calidad establecidad para el uso de los diferentes recuros, opern como un limite para determinar la cantidad, la clase y lo requisitos para veter, emitir o arrojar sustancias o elementos en el medio ambiente. Finalmente se mencionan las normas sobre productos y procesos productivos que se orientan a establecer los requisitos y epecificar caracteristicas que deben cumplir los productos comoa si tambien los diferentes procesos de produccion, de manera que prevenga y evite la posible contaminacion.
+	
+2.	**Instrumentos administrativos:** se trata de otorgamientos de licencias permisos y demas modos de adquirir el derecho a usar recursos naturales previstos en las diferentes legislaciones. Sin dudas las licencias ambientales y los estudios de impacto ambiental, han sido los instrumentos administrativos y de planificacion que mas atencion y energia han ocupado las autoridades de la region en estos ultimos años
 
+3.	**Insturmentos econónmicos:** Estan dirigidos a lograr que el mismo mercado propicie el cumplimiento de las metas ambientales. Incentivos economicos para la conservacion ambiental.
+	- Cargas de contaminacion
+	- Creacion de mercado  (comra de drechos para contaminar)
+	- Sistema de deposito-devolución
 
+4.	**Educacion:** La ingestigavion, asistencia técnica y la informacion ambiental conforman la cuarta categoria.
 
 
 
