@@ -24,6 +24,7 @@ Henrich dice que la Lesión, invariablemente, es causada por un accidente y el a
 4. ** Accidentes: ** Son accidentes tipicos que producen lesiones, las caidas de als personas, golpes, etc.
 5. ** Lesiones: ** Las fracturas, torceduras, etc. Son lesiones que resultan directamente de los accidentes.
 ![](http://lachlan.bluehaze.com.au/books/nsc_safety_facts_1941/images/heinrich_fig2s.jpg)
+
 La ocurrencia de una lesion evitable, es la culminacion natural de una serie de hechos y circunstancias que ocurren invariablemente en un orden fijo y logico.
 
 Heinrich decia que si esta serie se interrumpe por la sola eliminacion de uno de los factores que la constituyen, no es posible que ocurra la lesión.
@@ -70,6 +71,16 @@ La secuencia del dominio ha sido actualizada para reflejar la relacion deirecta 
 	- Gente, Propiedad
 
 ### Definiciones del Procedimiento
+
+1.	Accidentes: un suceso no deseado que da por resultado un daño fisico (lesion o enfermedad ocupacional) y/o un daño Ambiental y/o a la propiedad.
+
+2.	Incidente: Evento indeseado <== bajo circunstancias ligeramente diferentes, podria haber resultado en daño ( fisico, ambiental, propiedad)
+
+3.	Causa Basica: Son los factores personales y de trabajo de donde se originan las practicas y/o condiciones substandares
+	- Condicion Subestandar: desvio o ausencia de una o mas condiciones seguras respecto a los estandares establecidos.+
+4.	Cuasas Inmediatas: Actividad/Practica o condicion subestandar que contribuyen directamente en la ocurrencia de un Accidente/Incidente.
+
+
 
 
 
